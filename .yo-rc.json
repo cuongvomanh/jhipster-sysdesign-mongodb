@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.mygroup"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "mymongdbapp",
+    "packageName": "com.mycompany.mygroup",
+    "packageFolder": "com/mycompany/mygroup",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzA1NmFhMzBkNWNhZjJlMWQ1YThiNDJiZjYxMjRkNjY3NTcyNDUzNTM3ZGRmYTllYzExMTY3MjZkNTYwNmRjMDg3YmM2NjU4ZTZkOWU1YzA5ZDVjZDllOTczMjM2N2I4MGE2MTcxYmU4ZjE4MGI1MzViY2FmYmMyY2M2MjA1OTA=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1617005196725,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
